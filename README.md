@@ -1,8 +1,9 @@
 # Winfetch
-(i made a mistake in the code so it will display only my pc name i will fix later)
+
 **like neofetch..but better and works for windows so no need to install choco**
 **sadly i had to remove the updating feature cause it woldnt work properly on windows 11 terminal might fix later**
 **also has source code which will be release in a bit**
+**(i made a mistake in the code so it will display only my pc name i will fix later)**
 # how to use
 **run the installer you might have to restart pc for it to be put into the enviroment PATH then just open CMD and type winfetch**
 # features
