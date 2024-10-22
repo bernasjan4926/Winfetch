@@ -1,4 +1,5 @@
 # Winfetch
+(i made a mistake in the code so it will display only my pc name i will fix later)
 **like neofetch..but better and works for windows so no need to install choco**
 **pre compiled installer**
 **also has source code which will be release in a bit**
